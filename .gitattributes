@@ -1,0 +1,7 @@
+# exclude files from release
+# git files
+.gitattributes export-ignore
+.gitignore export-ignore
+# text files
+LICENSE export-ignore
+README.md export-ignore
